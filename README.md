@@ -17,10 +17,6 @@ Buku pada list di bawah ini dikumpulkan dari berbagai sumber, yaitu dari saya se
 🔍 Untuk pencarian harap menggunakan Ctrl + F / Cmd + F, dikarenakan belum adanya fitur search untuk waktu dekat ini 😔🙏
 </aside> <br>
 
-# Daftar Kategori
-
-- Klik untuk menampilkan **Kategori**
-
 # Android & Kotlin
 
 - ****[Android Application Programming with OpenCV 3 Build Android](https://iqlal.sharepoint.com/:b:/g/EQPywgLT9JJNmyCClrc5d2YBGfh3G8sUPt6ireJ28AEpyQ?e=NyHkm4)****
