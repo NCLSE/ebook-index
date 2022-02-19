@@ -1,21 +1,11 @@
 # Ebook Index
 
-description: My Ebook List and Open to Download for Everyone
-inList: Yes
-inMenu: Yes
-publish: Yes
-template: post
-url: ebook
-
 Buku pada list di bawah ini dikumpulkan dari berbagai sumber, yaitu dari saya sendiri, dari guru-guru saya, dan juga saya mendapatkannya di internet. E-book pada perpustakaan saya ini 100% Bahasa Inggris 🇬🇧 dan mayoritas buku teknik dan teknologi 😊
 
-<aside>
-ℹ️ Jika ada link yang **not found**, harap email saya di [learn@iqlal.me](mailto:learn@iqlal.me)
-</aside> <br>
+> ℹ Jika ada link yang **not found**, harap email saya di [learn@iqlal.me](mailto:learn@iqlal.me)
 
-<aside>
-🔍 Untuk pencarian harap menggunakan Ctrl + F / Cmd + F, dikarenakan belum adanya fitur search untuk waktu dekat ini 😔🙏
-</aside> <br>
+> 🔍 Untuk pencarian harap menggunakan Ctrl + F / Cmd + F, dikarenakan belum adanya fitur search untuk waktu dekat ini 😔🙏
+
 
 # Android & Kotlin
 
